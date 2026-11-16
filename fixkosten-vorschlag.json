@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "exportiert": "2026-11-16T13:46:06.921Z",
+  "kosten": [
+    {
+      "name": "Mitarbeiterdarlehen",
+      "betrag": 153,
+      "kategorie": "finanzen",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Miete / Tilgung",
+      "betrag": 1650,
+      "kategorie": "wohnen",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "DSL & Telefon",
+      "betrag": 43,
+      "kategorie": "telecom",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Fitnessstudio",
+      "betrag": 25,
+      "kategorie": "gesundheit",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Risiko-Lebensversicherung",
+      "betrag": 9.81,
+      "kategorie": "versicherung",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Kontoführungsgebühren",
+      "betrag": 5.44,
+      "kategorie": "finanzen",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Kfz-Steuer",
+      "betrag": 218.04,
+      "kategorie": "mobilitaet",
+      "intervall": "jaehrlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Wartungs- & Inspektionspaket",
+      "betrag": 73,
+      "kategorie": "mobilitaet",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Amazon Abo",
+      "betrag": 8.99,
+      "kategorie": "abos",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Strom",
+      "betrag": 80,
+      "kategorie": "energie",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Rechtsschutzversicherung",
+      "betrag": 30.1,
+      "kategorie": "versicherung",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Grundsteuer (Eichendorffstraße)",
+      "betrag": 72.8,
+      "kategorie": "wohnen",
+      "intervall": "quartalsweise",
+      "faelligkeitsmonat": 2
+    },
+    {
+      "name": "Rundfunkbeitrag",
+      "betrag": 55.5,
+      "kategorie": "abos",
+      "intervall": "quartalsweise",
+      "faelligkeitsmonat": 2
+    },
+    {
+      "name": "Handyvertrag klarmobil",
+      "betrag": 9.99,
+      "kategorie": "telecom",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Netflix",
+      "betrag": 4.99,
+      "kategorie": "abos",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Spotify",
+      "betrag": 9,
+      "kategorie": "abos",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Hausratversicherung",
+      "betrag": 164.76,
+      "kategorie": "versicherung",
+      "intervall": "jaehrlich",
+      "faelligkeitsmonat": 11
+    },
+    {
+      "name": "Kfz-Versicherung",
+      "betrag": 692,
+      "kategorie": "mobilitaet",
+      "intervall": "jaehrlich",
+      "faelligkeitsmonat": 12
+    },
+    {
+      "name": "ADAC",
+      "betrag": 54,
+      "kategorie": "mobilitaet",
+      "intervall": "jaehrlich",
+      "faelligkeitsmonat": 10
+    },
+    {
+      "name": "Baufinanzierung",
+      "betrag": 176.78,
+      "kategorie": "finanzen",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Ansparleistung Bausparvertrag",
+      "betrag": 160,
+      "kategorie": "finanzen",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Monatliche Tilgungsrate",
+      "betrag": 208.33,
+      "kategorie": "finanzen",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    },
+    {
+      "name": "Hausgeld (Eichendorffstraße)",
+      "betrag": 279,
+      "kategorie": "wohnen",
+      "intervall": "monatlich",
+      "faelligkeitsmonat": null
+    }
+  ],
+  "einnahmen": []
+}
